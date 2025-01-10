@@ -15,6 +15,7 @@ public class CallableClass {
         // System.out.println("singleton "+singleton);
 
         singleton.add("laxman");
+        //singleton
         System.out.println(singleton.stream());
     }
 }
